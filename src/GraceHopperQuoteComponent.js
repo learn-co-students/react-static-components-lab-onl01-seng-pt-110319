@@ -15,3 +15,5 @@ export class GraceHopperQuoteComponent extends Component {
 		);
 	}
 }
+
+export default GraceHopperQuoteComponent;
